@@ -25,5 +25,7 @@ while i < 26:
     temp_str = ""
     i += 1
 ```
+We find the following message:
+LEVEL TWO PASSWORD ROTTEN
 
-
+Thus giving us our decoded password to level 2.
